@@ -1,0 +1,81 @@
+/*.body..*/
+.header-items{
+  border: 1px #f4f4f4;
+  height: 50px;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #63f700;
+}
+ 
+ 
+  
+
+
+
+body {
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: chartreuse;
+  color: #ff0000;
+}
+h1,h2 {
+  color: chartreuse;
+}
+nav,a {
+  color: #f4f4f4;
+}
+
+ .fb-link-ul{
+  background-color: white;
+ }
+ .fb-link{
+  background-color: black;
+ }
+th{
+background-color: aquamarine;
+}
+.R, .B{
+  color: rgb(31, 31, 31);
+}
+.name{
+  color:crimson;
+  text-align: start;
+  font-size:50px;
+}
+.btn{
+  color: black;
+  background-color: yellow;
+  border-radius: 0%;
+  border: rgb(62, 82, 62) 1px solid;
+
+}
+
